@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-# 2.2.2. Interaction as a Mirror: Self-Analysis Through AI Dialogue
+# 2.2.2. The Reflective Dialogue: Analyzing Yourself with AI
 
 One of the most powerful yet often overlooked benefits of interacting with AI is the **mirror effect**.  
 Every conversation with an AI reflects:

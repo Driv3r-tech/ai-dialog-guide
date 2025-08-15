@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-## Appendix B. Examples of Mature Interaction Habits
+## Appendix B. Examples of Mature AI Habits
 
 ---
 

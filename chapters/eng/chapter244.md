@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-## 2.4.4. Changes in Speech and Thinking Through Interaction with AI
+## 2.4.4. Changes in Speech and Thinking Through AI Use
 
 Regular deep conversations driven by genuine curiosity gradually reshape not only your thinking but also your manner of speaking.  
 This can be called a cognitive and linguistic **“environmental adaptation”** — the brain absorbs the logic, structure, and ways of expression it encounters most often.

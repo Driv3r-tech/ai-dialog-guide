@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-## Appendix D. List of Meta-Problems and How to Solve Them
+## Appendix D. Meta-Problems and How to Handle Them
 
 | # | Meta-Problem | How It Manifests | Why It Happens | Solution |
 |---|--------------|------------------|----------------|----------|

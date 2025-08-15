@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-# 1.2. Dealing with Hallucinations and Distortions in AI Responses
+# 1.2. Handling Hallucinations and Distortions in AI Responses
 
 One of the most dangerous yet subtle meta-problems is **AI hallucinations** — situations when a language model confidently makes up facts, terms, references, definitions, or logical connections that don’t exist.
 

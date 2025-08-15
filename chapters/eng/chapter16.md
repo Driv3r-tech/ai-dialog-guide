@@ -35,7 +35,7 @@ Even if data is **not explicitly stored**, risks exist:
 
 ---
 
-## 📊 Table 3 — What Not to Share in AI Chats
+## 📊 What Not to Share in AI Chats
 
 | Category                 | Examples                                                                 |
 |--------------------------|--------------------------------------------------------------------------|
@@ -88,9 +88,9 @@ Respect for your information = respect for yourself, your loved ones, and your w
 
 ## ✅ Checklist: Sensitive Info Screening
 
-- ☐ No full names, addresses, or birthdates?
-- ☐ No info about others without consent?
-- ☐ No NDA or internal/confidential data?
-- ☐ Would I be okay reading this request out loud in public?
+- No full names, addresses, or birthdates?
+- No info about others without consent?
+- No NDA or internal/confidential data?
+- Would I be okay reading this request out loud in public?
 
 [⬅️ Chapter 1.5.](chapter15.md)  |  [Chapter 1.7. ➡️](chapter17.md)

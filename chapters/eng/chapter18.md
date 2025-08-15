@@ -87,6 +87,4 @@ Because thinking feels meaningful. Mature. Noble.
 But **true maturity** is not in endless introspection —  
 It’s in **knowing when to stop thinking and start doing**.
 
-> **Don’t let the circuit close in your mind — release it into action.**
-
 [⬅️ Chapter 1.7.](chapter17.md)  |  [Chapter 2 ➡️](chapter2.md)

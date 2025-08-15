@@ -39,7 +39,7 @@ It starts to feel like the **“depth of the channel” has narrowed** — your 
 - Follow-up questions **no longer lead to deeper analysis**, but repeat previous answers;
 - The model feels like it’s **“running out of energy”**, giving minimal, uninspired replies;
 - Sometimes odd behaviors occur:
-  - Random **Chinese characters**, Arabic script, or English fragments in Russian responses;
+  - Random **Chinese characters**, Arabic script, or English fragments in responses;
   - Logical chains **collapse into shallow or vague generalities**.
 
 ---

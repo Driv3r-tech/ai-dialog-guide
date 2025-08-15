@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-## 2.4.3. Vaccination Through Soft Training
+## 2.4.3. Gentle Mental Training as a Form of “Vaccination”
 
 There are moments in life when psychological pressure, conflict, rejection, or public failure can throw us off balance for a long time. Such events often come suddenly and painfully, leaving a feeling of helplessness and shame.  
 Most people try to avoid such situations — which makes them more vulnerable when they inevitably happen.

@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-# 2.3.3. Talking to a Language Model in Another Language
+# 2.3.3. Communicating with AI in Another Language
 
 Modern language models make it easy to "jump" between languages, turning any conversation — from casual to scientific — into a multilingual dialogue.  
 Talking to an AI in a foreign language is not only a way to practice grammar and vocabulary, but also a path to new ways of thinking, fresh ideas, and a different worldview.

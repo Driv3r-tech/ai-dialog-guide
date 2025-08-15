@@ -2,7 +2,7 @@
 
 # 2.2 Block: Studying the Self
 
-# 2.2.1. AI as a Mirror: Systematizing Experience and Self-Understanding
+# 2.2.1. Understanding Yourself Through Life Event Lists
 
 AI helps you look at yourself from the outside and organize key observations into a system. This is especially valuable if you want to:
 - identify what causes you stress,
@@ -12,20 +12,20 @@ AI helps you look at yourself from the outside and organize key observations int
 
 ## Table 5 – Context from the Author's Experience
 
-Step by step, exploring new ways of interacting with AI, I began turning not just to the model — but to myself.  
-At some point, I asked myself:
+> Step by step, exploring new ways of interacting with AI, I began turning not just to the model — but to myself.  
+> At some point, I asked myself:
 
 > What other profiles, beyond cognitive ones, can I create with AI?  
 > What kinds of lists can help me better understand myself — and see where this is all heading in the short and long term?
 
-It turned out there were many such profiles and lists. But one in particular struck me: a **list of life pressures**.  
-I began noting down painful experiences I’d lived through — school conflicts, early heartbreaks, betrayals of trust, internal crises.
+> It turned out there were many such profiles and lists. But one in particular struck me: a **list of life pressures**.  
+> I began noting down painful experiences I’d lived through — school conflicts, early heartbreaks, betrayals of trust, internal crises.
 
-When I wrote this list, I started to see my strengths and vulnerabilities more clearly — parts of me I hadn’t even noticed before. And once I brought in AI for analysis, it revealed deeper patterns and even memories that had once seemed random, but had actually shaped many of my decisions.
+> When I wrote this list, I started to see my strengths and vulnerabilities more clearly — parts of me I hadn’t even noticed before. And once I brought in AI for analysis, it revealed deeper patterns and even memories that had once seemed random, but had actually shaped many of my decisions.
 
-That became a turning point: I started consciously understanding what I had once lived through on autopilot.  
-For the first time in a long while, clear, mature decisions emerged — not emotional, but deliberate and grounded in awareness.  
-What used to be just "experience" turned into a true lesson.
+> That became a turning point: I started consciously understanding what I had once lived through on autopilot.  
+> For the first time in a long while, clear, mature decisions emerged — not emotional, but deliberate and grounded in awareness.  
+> What used to be just "experience" turned into a true lesson.
 
 ## Self-analysis Tools
 

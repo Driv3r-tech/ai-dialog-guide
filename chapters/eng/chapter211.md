@@ -20,7 +20,7 @@ In such cases, the AI can provide:
 
 ---
 
-## 📌 Table 4 — Author’s Personal Experience
+## 📌 Author’s Personal Experience
 
 > While solving a complex algorithmic problem in competitive programming, I hit a wall.  
 > It felt like all my years of training were wasted — like I was stuck at a beginner’s level.  

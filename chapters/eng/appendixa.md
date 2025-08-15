@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-## Appendix A. List of Clarifying Prompts and Questions for AI
+## Appendix A. Clarifying Prompts and AI Questions
 
 ### 📌 Clarifying Questions
 1. What logical shifts have occurred in my question?  

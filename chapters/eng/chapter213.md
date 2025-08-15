@@ -39,11 +39,10 @@ It’s about exploring the kind of depth that most commercial models avoid — b
 
 ---
 
-## ⚠ Why This Is “Too Much” for Most Users
+## ⚠ Why it feels complicated
 
-- Most people want quick, simple answers;
-- They aren’t ready to engage deeply;
-- They may find complexity “confusing” rather than “enriching”.
+- Depth can feel confusing rather than helpful;
+- Too many layers to the answer can feel overwhelming.
 
 📝 *Short definition:*  
 > “Too complex” = requires active thinking, synthesis, and reconciling contradictions — not just absorbing answers.
@@ -113,4 +112,4 @@ In this mode, AI:
 - **Meta-effect reflection:**  
   “Explain how your answer might affect my development or cognition.”
 
-[⬅️ Chapter 2.1.2](chapter212.md) | [Chapter 2.2 ➡️](chapter22.md)
+[⬅️ Chapter 2.1.2](chapter212.md) | [Chapter 2.1.4. ➡️](chapter214.md)

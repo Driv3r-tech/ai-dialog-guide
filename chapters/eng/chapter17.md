@@ -101,6 +101,4 @@ But just like physical training, mental effort needs **recovery**.
 > **Cognitive stamina** is not about pushing to the limit —  
 > it’s about knowing when to stop, and how to protect your mental energy.
 
-**A healthy rhythm with AI is a path to growth and creative strength.**
-
 [⬅️ Chapter 1.6.](chapter16.md)  |  [Chapter 1.8. ➡️](chapter18.md)

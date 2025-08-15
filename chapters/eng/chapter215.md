@@ -1,6 +1,6 @@
 [📚 Back to Table of Contents](../../README.md)
 
-# 2.1.5. Mirror and Critic: Using AI for Self-Reflection and Deeper Thinking
+# 2.1.5. The Mirror and the Critic: Using AI for Self-Testing
 
 One of the most mature ways to interact with a language model is through a dialogue where you're not just receiving information — you're testing your own thinking. Especially valuable is the ability to use the AI as:
 
