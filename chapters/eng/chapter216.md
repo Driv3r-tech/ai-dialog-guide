@@ -1,4 +1,4 @@
-[📚 Back to Table of Contents](../../README_eng.md)
+[📚 Back to Table of Contents](../../README.md)
 
 # 2.1.6. The “Five Filters” Technique for Evaluating an Idea
 
@@ -52,4 +52,4 @@ Here is the idea description: [your idea].
 - **Early resilience check** – your idea undergoes a simulated “stress test” before facing the real world.
 - **Insight generation** – even unusual perspectives may reveal breakthrough solutions.
 
-[⬅️ Chapter 2.1.5.](chapter215.md)  |  [Chapter 2.2., 2.2.1. ➡️](chapter221.md)
+[⬅️ Chapter 2.1.5.](chapter215.md)  |  [Chapter 2.1.7. ➡️](chapter217.md)
