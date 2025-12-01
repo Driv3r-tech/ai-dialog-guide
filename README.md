@@ -9,15 +9,11 @@
 
 Modern language models have the power to inspire, accelerate thinking, and support professional tasks — but they can also lead us into illusion, emotional dependency, and a false sense of clarity masked by elegant phrasing. The effect depends not on the model itself, but on **how** the interaction unfolds.
 
-The purpose of this guide is to help build a **mature and mindful approach** to communicating with AI — with full awareness of the risks, the depth of interaction, the structure of thought, and one's inner goals.
-
 This guide is divided into three parts:
 
 1. **Threats and traps** – subtle changes in perception, speech, and decision-making that accumulate over time.
 2. **Potential for growth** – how AI can be used as a tool for developing thinking, creativity, self-awareness, and professional resilience.
 3. **A speculative future** – reflections on what human–AI interaction may evolve into.
-
-> May this guide become a compass on your path toward conscious, honest, and creative dialogue — with AI, with yourself, and with the future we are building together.
 
 ---
 
